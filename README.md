@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the root repository to Application Form Evaluator, a web application that leverages the job of evaluating application forms from candidates by using the (holy) power of GPT-4o from OpenAI.
+This is the root repository to Application Form Evaluator, a web application that leverages the job of evaluating application forms from candidates by using the (holy) power of large language models (LLMs).
 
 Link to front end repository: [here](https://github.com/daoviethoang1402/application-form-evaluator-frontend)
 
